@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7886058a2f655e43a21cd2aef6349f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Cube: {fileID: 1590516525815830, guid: 3aebfd9da74b5f54597229e4d25a5bef, type: 2}
+  - Coin: {fileID: 1961111977540642, guid: 6118e43d21e2a9148ab071a5bf04d666, type: 2}
+  - SpinCube: {instanceID: 0}
+  - LINE: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
